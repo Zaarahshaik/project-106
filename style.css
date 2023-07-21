@@ -1,0 +1,18 @@
+body
+{
+    background: #ffc0cb;
+    font-family: 'Varela Round', sans-serif;
+}
+
+.header_div{
+    background-color:paleturquoise;
+    margin-bottom: 20px;
+}
+.copy_right_footer{
+    background-color:white;
+    margin: 0px;
+    padding: 10px;
+    bottom:0;
+    position:fixed;
+    width: 100%;
+}
